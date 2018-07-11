@@ -1,0 +1,6 @@
+{
+    "NAME" : "name of command",
+    "AUTHOR" : "name",
+    "SHORT" : "short desc",
+    "DESCRIPTION" : "longer function desc",
+}
