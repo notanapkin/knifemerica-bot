@@ -1,6 +1,6 @@
 {
-    "NAME" : "name of command",
-    "AUTHOR" : "name",
-    "SHORT" : "short desc",
-    "DESCRIPTION" : "longer function desc",
+    "NAME" : "knifemerica-bot",
+    "AUTHOR" : "Nat",
+    "SHORT" : "This bot likes: knives, killing god, and KFP (Kentucky Fried Pussy)",
+    "DESCRIPTION" : "A stupid-ass bot based off of a stupid-ass inside joke for my stupid-ass private servers. His purpose: to ruin my friendships online and help my reputation for shitfuckery flourish. This bot does audio, moderation, and performs dark deeds in the name of Colonel Sanders.",
 }
